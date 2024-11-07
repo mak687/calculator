@@ -6,7 +6,7 @@ function App() {
   return (
    <>
       <div className="main">
-          <div className="conatiner calculator">
+          <div className="conatiner">
             <Calculator/>
           </div>
       </div>

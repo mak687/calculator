@@ -15,15 +15,5 @@ button{
   border-radius: 5px;
   margin:20px;
   padding:10px; 
-}
-.todoList{
-  
-  width: 15%;
-  
-}
-.calculator{
   width: 10%;
-}
-.error-region{
-  color:red
 }
